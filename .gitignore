@@ -127,3 +127,28 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Visual Studio
+.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# User- and IDE-specific
+*.user
+*.suo
+*.csproj.user
+*.vcxproj.user
+*.rsuser
+
+# Misc caches/databases
+*.opendb
+*.VC.db
+*.ilk
+*.pdb
+*.cache
+*.tlog
